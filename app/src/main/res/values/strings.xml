@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPA_R01862183_Calculation</string>
+    <string name="grade">Final grade for course</string>
+    <string name="gpa_compute">Compute GPA</string>
+    <string name="gpa_display">GPA:</string>
+    <string name="clear">Clear Form</string>
+</resources>
